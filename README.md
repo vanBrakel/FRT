@@ -1,4 +1,4 @@
-![Logo EFT](https://i.imgur.com/V8Fm09E.png)
+![Logo EFT](https://i.imgur.com/OWQcQle.png)
 
 ---
 
