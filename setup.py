@@ -4,14 +4,14 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="apt-py",
+    name="frt",
     version="0.0.1",
     author="Jean-Paul van Brakel",
     author_email="jeanpaulvbrakel@gmail.com",
-    description="A package for research into asset pricing and backtesting of investment strategies",
+    description="A package for financial research using WRDS data",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/vanBrakel/AssetPricingToolbox",
+    url="https://github.com/vanBrakel/FRT",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
